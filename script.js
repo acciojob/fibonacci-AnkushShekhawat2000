@@ -10,3 +10,4 @@ function fibonacci(num) {
 
 // Examples
 
+module.exports = fibonacci;
