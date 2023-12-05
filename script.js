@@ -9,5 +9,4 @@ function fibonacci(num) {
 }
 
 // Examples
-console.log(fibonacci(1)); // Output: 0
-console.log(fibonacci(5)); // Output: 3
+
